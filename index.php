@@ -118,7 +118,7 @@
       </div>
 
 
-CODE OF THE WEBSITE <a href="https://anotepad.com/notes/98xe4422">CLICK HERE FOR CODE OF THE WEBSITE</a>
+CODE OF THE WEBSITE <a href="https://github.com/amit-singh1/openweatherapi/blob/main/index.php">CLICK HERE FOR CODE OF THE WEBSITE</a>
 <br><br>RA1811028010077
 AMIT KUMAR SINGH
 
